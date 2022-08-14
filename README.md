@@ -7,9 +7,12 @@ Using VBA in Excel, the exercise is to run through a stock spreadsheet to pull b
 ## Analysis
 The stocks analyzed in 2017 performed moderately well to extremely well. As shown in the below image.
 
+![2017_Stocks](https://user-images.githubusercontent.com/100614690/184521291-889c673c-1e9c-4cbb-8783-f806863ef9ad.PNG)
+
 
 However in 2018, those same stocks pretty much sucked except for two.
 
+![2018_Stocks](https://user-images.githubusercontent.com/100614690/184521302-95a19a6a-954a-48fa-85ed-db21a9842819.PNG)
 
 
 The time to run the macros doing the analysis shortened, as expected.
